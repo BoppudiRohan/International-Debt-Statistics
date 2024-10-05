@@ -1,4 +1,4 @@
-# International-Debt-Statistics
+# International-Debt-Statistics Analysis
 Analyze-International-Debt-Statistics (POSTGRESQL)
 Debt is not just a personal issue; nations also take on debt to manage various economic necessities such as infrastructure development, healthcare, and education. Organizations like the World Bank provide loans to countries to fund these efforts, particularly in developing nations. In this project, we will analyze the International Debt Statistics dataset collected by the World Bank. The dataset contains information about the debt in USD owed by developing countries, categorized by different indicators over time (from 1970 to 2015).
 
